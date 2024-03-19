@@ -1,0 +1,9 @@
+#user_input.py
+#user name
+name = input("Enter your name:")
+#user age
+age = input("Enter your age:")
+#user location
+location = input("Enter your location:")
+#print personalised message
+print(f"Hello {name}, you are {age} years old and live in {location}.")
